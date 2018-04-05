@@ -30,11 +30,11 @@
 * 撰寫 JavaScript，熟悉 ES6 語法
 * 懂 jQuery 語法 、 使用 jQuery UI 美化介面
 * AJAX 串接與使用
-* 前端網頁開發MVC架構 (AngularJS)
+* 前端網頁開發MVC架構 (AngularJS)(在學中)
 
 ### Git/GitHub
 
-* 能使用 Git 在 GitHub 上進行版本控制
+* 能使用 Git 進行版本控制 (在學中)
 * GitHub Page
 
 ## Introduction
