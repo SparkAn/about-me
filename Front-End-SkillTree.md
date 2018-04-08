@@ -4,10 +4,7 @@
 
 ## 說明
 
-![image](https://github.com/SparkAn/about-me/about-me Img/chevron -HIGH.png) 
-![image](https://github.com/SparkAn/about-me/about-me Img/chevron -HIGH.png) 強烈推薦
-![image](https://github.com/SparkAn/about-me/about-me Img/chevron - MEDIUM.png) 選修
-![image](https://github.com/SparkAn/about-me/about-me Img/chevron - LOW.png) 可了解
+
 
 [網頁三巨頭]**
 HTML、JavaScript、CSS
