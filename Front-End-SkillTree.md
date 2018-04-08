@@ -47,6 +47,7 @@
 	* Stylus  ![](./AboutMe-image/chevron-LOW.png)	
 
 **[⬆ back to MENU](#目錄)**
+---
 
 > ### JavaScript ![](./AboutMe-image/chevron-HIGH.png)
 * 打包工具 ![](./AboutMe-image/chevron-HIGH.png)
@@ -69,12 +70,36 @@
 * 任務管理 ![](./AboutMe-image/chevron-HIGH.png)
 	* Gulp ![](./AboutMe-image/chevron-HIGH.png)
 	* Grunt ![](./AboutMe-image/chevron-LOW.png) 
+	
+**[⬆ back to MENU](#目錄)**
+---
 
 > ### 專精 ![](./AboutMe-image/chevron-HIGH.png)
-
-			
-
-
-
+* CSS ![](./AboutMe-image/chevron-HIGH.png)
+	* Transform ![](./AboutMe-image/chevron-HIGH.png)
+	* Flexbox ![](./AboutMe-image/chevron-HIGH.png)
+	* Grid Layout ![](./AboutMe-image/chevron-MEDIUM.png) 
+	* Animation ![](./AboutMe-image/chevron-MEDIUM.png) 
+	* etc..
+* Testing ![](./AboutMe-image/chevron-LOW.png) 
+	* Mocha ![](./AboutMe-image/chevron-MEDIUM.png) 
+	* Casperjs
+	* Jasmine
+* API Serive ![](./AboutMe-image/chevron-LOW.png)  
+	* Google API ![](./AboutMe-image/chevron-HIGH.png)
+	* Facebook for Developers ![](./AboutMe-image/chevron-HIGH.png)
+	* etc..
+* 分析 ![](./AboutMe-image/chevron-HIGH.png)
+	* Google Analytic ![](./AboutMe-image/chevron-HIGH.png)
+	* -Mixpanel ![](./AboutMe-image/chevron-LOW.png) 
+	* -Facebook Pixel ![](./AboutMe-image/chevron-LOW.png) 
+	* etc..
+* 後端框架 ![](./AboutMe-image/chevron-HIGH.png)
+	* express ![](./AboutMe-image/chevron-MEDIUM.png) 
+	* Sails ![](./AboutMe-image/chevron-LOW.png) 
+	* Meteor ![](./AboutMe-image/chevron-LOW.png) 
+	
+**[⬆ back to MENU](#目錄)**
+---
 
 > Icons made by Dimitry Miroliubov from www.flaticon.com is licensed by CC 3.0 BY
