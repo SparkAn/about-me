@@ -10,19 +10,19 @@
 
 ## 目錄
 
-* [CSS](#css-)
+* CSS
 	* [CSS框架](#css框架-)
 	* [響應式網頁RWD](#響應式網頁rwd-)
 	* [設計](#設計-)
 	* [CSS預處理](#css預處理-)
-* [JavaScript](#javascript-)
+* JavaScript
 	* [打包工具](#打包工具-)
 	* [JavaScript ES6](#javascript-es6-)
 	* [JS Framework](#js-framework-)
 	* [套件管理](#套件管理-)
 	* [JS預處理](#js預處理-)
 	* [任務管理](#任務管理-)
-* [專精](#專精-)
+* 專精
 	* [CSS](#css--1)
 	* [Testing](#testing-)
 	* [API Serive](#api-serive-)
