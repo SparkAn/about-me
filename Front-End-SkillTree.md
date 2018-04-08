@@ -23,25 +23,24 @@ image
 - HTML、JavaScript、CSS
 
 > ### CSS ![](./AboutMe-image/chevron-HIGH.png)
-
 >> * CSS框架 ![](./AboutMe-image/chevron-HIGH.png)
-	* Bootstrap ![](./AboutMe-image/chevron-MEDIUM.png) 
-	* Sematic UI
-	* Foundation
-	* Pure CSS
+>>> * Bootstrap ![](./AboutMe-image/chevron-MEDIUM.png) 
+>>> * Sematic UI
+>>> * Foundation
+>>> * Pure CSS
 
 >> * 響應式網頁RWD ![](./AboutMe-image/chevron-HIGH.png)
 		
 >> * 設計 ![](./AboutMe-image/chevron-HIGH.png)
-	* {繪圖軟體} ![](./AboutMe-image/chevron-HIGH.png)
-		* Sketch ![](./AboutMe-image/chevron-HIGH.png)
-		* Photoshop ![](./AboutMe-image/chevron-MEDIUM.png) 
-		* IIIustrator ![](./AboutMe-image/chevron-MEDIUM.png) 
-		* Affinity Deigner
+>>> * 繪圖軟體 ![](./AboutMe-image/chevron-HIGH.png)
+>>>> * Sketch ![](./AboutMe-image/chevron-HIGH.png)
+>>>> * Photoshop ![](./AboutMe-image/chevron-MEDIUM.png) 
+>>>> * IIIustrator ![](./AboutMe-image/chevron-MEDIUM.png) 
+>>>> * Affinity Deigner
 
-	* {設計規範}
-		* Material Design
-		* iOS Huamn Interface Guidelines
+>>> * {設計規範}
+>>>> * Material Design
+>>>> * iOS Huamn Interface Guidelines
 
 >> * CSS預處理 ![](./AboutMe-image/chevron-HIGH.png)
 	* Sass ![](./AboutMe-image/chevron-HIGH.png)
