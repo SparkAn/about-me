@@ -1,16 +1,28 @@
-# 2017版本- 前端開發者 技能樹  
+# 2017版本- 前端開發者 技能樹 //學習筆記 
 
 *出自： [六腳學院 - 2017 前端開發者技能樹！](http://www.hexschool.com/2017/06/12/2017-06-12-skill_tree/)*
 
 ## 說明
 
 * ![](./AboutMe-image/chevron-HIGH.png) **強烈推薦**
-* ![](./AboutMe-image/chevron-MEDIUM.png) **選修**
+* ![](./AboutMe-image/chevron-MEDIUM.png) **選讀研修**
 * ![](./AboutMe-image/chevron-LOW.png) **可了解**
 
+## 目錄
 
-網頁三巨頭**
-HTML、JavaScript、CSS
+* top1
+* top2
+
+## 原圖
+
+
+## 資源整理
+
+* [ ] **網頁三巨頭** ![](./AboutMe-image/chevron-HIGH.png)
+- HTML、JavaScript、CSS
+
+
+
 	-{CSS}**
 		-{CSS框架}**
 			-Bootstrap**
