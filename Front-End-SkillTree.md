@@ -39,18 +39,18 @@
 ### 網頁三巨頭 ![](./AboutMe-image/chevron-HIGH.png)
 - HTML、JavaScript、CSS
 
-> ### CSS [[教學網站](https://www.w3schools.com/css/default.asp)] ![](./AboutMe-image/chevron-HIGH.png)
+> ### CSS ![](./AboutMe-image/chevron-HIGH.png) [[教學網站](https://www.w3schools.com/css/default.asp)] 
 * #### CSS框架 ![](./AboutMe-image/chevron-HIGH.png)
-	* Bootstrap [[教學網站](http://bootstrap.hexschool.com/docs/4.0/getting-started/introduction/)] ![](./AboutMe-image/chevron-MEDIUM.png) 
+	* Bootstrap ![](./AboutMe-image/chevron-MEDIUM.png) [[教學網站](http://bootstrap.hexschool.com/docs/4.0/getting-started/introduction/)] 
 	* Sematic UI  ![](./AboutMe-image/chevron-LOW.png)
 	* Foundation  ![](./AboutMe-image/chevron-LOW.png)
 	* Pure CSS  ![](./AboutMe-image/chevron-LOW.png)
 
-* #### 響應式網頁RWD [[教學網站](https://www.w3schools.com/css/css_rwd_frameworks.asp)] ![](./AboutMe-image/chevron-HIGH.png)		
+* #### 響應式網頁RWD ![](./AboutMe-image/chevron-HIGH.png) [[教學網站](https://www.w3schools.com/css/css_rwd_frameworks.asp)] 
 * #### 設計 ![](./AboutMe-image/chevron-HIGH.png)
 	* 繪圖軟體 ![](./AboutMe-image/chevron-HIGH.png)
-		* Sketch ![](./AboutMe-image/chevron-HIGH.png)
-		* Photoshop [[教學網站](http://www.flycan.com/deux2/mypaper/photoshop.htm)] ![](./AboutMe-image/chevron-MEDIUM.png) 
+		* Sketch ![](./AboutMe-image/chevron-HIGH.png) [待找中]		
+		* Photoshop ![](./AboutMe-image/chevron-MEDIUM.png) [[教學網站](http://www.flycan.com/deux2/mypaper/photoshop.htm)] 
 		* IIIustrator ![](./AboutMe-image/chevron-MEDIUM.png) 
 		* Affinity Deigner  ![](./AboutMe-image/chevron-LOW.png)
 	* {設計規範}
@@ -58,7 +58,7 @@
 		* iOS Huamn Interface Guidelines  ![](./AboutMe-image/chevron-LOW.png)
 
 * #### CSS預處理 ![](./AboutMe-image/chevron-HIGH.png)
-	* Sass ![](./AboutMe-image/chevron-HIGH.png)
+	* Sass ![](./AboutMe-image/chevron-HIGH.png) [[wiki](https://zh.wikipedia.org/wiki/Sass)] 
 	* PostCSS ![](./AboutMe-image/chevron-HIGH.png)
 	* Less  ![](./AboutMe-image/chevron-LOW.png)
 	* Stylus  ![](./AboutMe-image/chevron-LOW.png)	
@@ -67,13 +67,13 @@
 ---
 
 > ### JavaScript ![](./AboutMe-image/chevron-HIGH.png)
-* #### 打包工具 ![](./AboutMe-image/chevron-HIGH.png)
+* #### 打包工具 ![](./AboutMe-image/chevron-HIGH.png) [[Git資源](https://github.com/warmhug/cutepack)] 
 		
-* #### JavaScript ES6 ![](./AboutMe-image/chevron-HIGH.png)
+* #### JavaScript ES6 ![](./AboutMe-image/chevron-HIGH.png) [[部落格](https://medium.com/@peterchang_82818/es6-10-features-javascript-developer-must-know-98b9782bef44)] 
 		
 * #### JS Framework ![](./AboutMe-image/chevron-HIGH.png)
-	* jQuery ![](./AboutMe-image/chevron-MEDIUM.png) 
-	* AngularJS ![](./AboutMe-image/chevron-MEDIUM.png) 
+	* jQuery ![](./AboutMe-image/chevron-MEDIUM.png) [[教學網站](https://www.w3schools.com/jquery/jquery_intro.asp)] 
+	* AngularJS ![](./AboutMe-image/chevron-MEDIUM.png) [[教學網站](https://www.w3schools.com/angular/angular_intro.asp)] 
 	* React ![](./AboutMe-image/chevron-MEDIUM.png) 
 	* Vue ![](./AboutMe-image/chevron-MEDIUM.png) 
 	
