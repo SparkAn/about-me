@@ -1,4 +1,4 @@
-# 2017版本- 前端開發者 技能樹 --學習筆記(新增中) 
+# 2017版本- 前端開發者 技能樹 --學習筆記 *整理中ing*
 
 *出自： [六腳學院 - 2017 前端開發者技能樹！](http://www.hexschool.com/2017/06/12/2017-06-12-skill_tree/)*
 
@@ -28,7 +28,7 @@
 	* [API Serive](#api-serive-)
 	* [分析](#分析-)
 	* [後端框架](#後端框架-)
-* 文件版本管理GitHub *[教學網站](https://backlog.com/git-tutorial/tw/)*
+* 文件版本管理GitHub [[教學網站](https://backlog.com/git-tutorial/tw/)]
 
 ## 原圖
 
@@ -39,18 +39,18 @@
 ### 網頁三巨頭 ![](./AboutMe-image/chevron-HIGH.png)
 - HTML、JavaScript、CSS
 
-> ### CSS ![](./AboutMe-image/chevron-HIGH.png)
+> ### CSS [[教學網站](https://www.w3schools.com/css/default.asp)] ![](./AboutMe-image/chevron-HIGH.png)
 * #### CSS框架 ![](./AboutMe-image/chevron-HIGH.png)
-	* Bootstrap ![](./AboutMe-image/chevron-MEDIUM.png) 
+	* Bootstrap [[教學網站](http://bootstrap.hexschool.com/docs/4.0/getting-started/introduction/)] ![](./AboutMe-image/chevron-MEDIUM.png) 
 	* Sematic UI  ![](./AboutMe-image/chevron-LOW.png)
 	* Foundation  ![](./AboutMe-image/chevron-LOW.png)
 	* Pure CSS  ![](./AboutMe-image/chevron-LOW.png)
 
-* #### 響應式網頁RWD ![](./AboutMe-image/chevron-HIGH.png)		
+* #### 響應式網頁RWD [[教學網站](https://www.w3schools.com/css/css_rwd_frameworks.asp)] ![](./AboutMe-image/chevron-HIGH.png)		
 * #### 設計 ![](./AboutMe-image/chevron-HIGH.png)
 	* 繪圖軟體 ![](./AboutMe-image/chevron-HIGH.png)
 		* Sketch ![](./AboutMe-image/chevron-HIGH.png)
-		* Photoshop ![](./AboutMe-image/chevron-MEDIUM.png) 
+		* Photoshop [[教學網站](http://www.flycan.com/deux2/mypaper/photoshop.htm)] ![](./AboutMe-image/chevron-MEDIUM.png) 
 		* IIIustrator ![](./AboutMe-image/chevron-MEDIUM.png) 
 		* Affinity Deigner  ![](./AboutMe-image/chevron-LOW.png)
 	* {設計規範}
