@@ -29,24 +29,22 @@ image
 >>> * Foundation
 >>> * Pure CSS
 
->> * 響應式網頁RWD ![](./AboutMe-image/chevron-HIGH.png)
-		
+>> * 響應式網頁RWD ![](./AboutMe-image/chevron-HIGH.png)		
 >> * 設計 ![](./AboutMe-image/chevron-HIGH.png)
 >>> * 繪圖軟體 ![](./AboutMe-image/chevron-HIGH.png)
 >>>> * Sketch ![](./AboutMe-image/chevron-HIGH.png)
 >>>> * Photoshop ![](./AboutMe-image/chevron-MEDIUM.png) 
 >>>> * IIIustrator ![](./AboutMe-image/chevron-MEDIUM.png) 
 >>>> * Affinity Deigner
-
 >>> * {設計規範}
 >>>> * Material Design
 >>>> * iOS Huamn Interface Guidelines
 
 >> * CSS預處理 ![](./AboutMe-image/chevron-HIGH.png)
-	* Sass ![](./AboutMe-image/chevron-HIGH.png)
-	* PostCSS ![](./AboutMe-image/chevron-HIGH.png)
-	* Less
-	* Stylus	
+>>> * Sass ![](./AboutMe-image/chevron-HIGH.png)
+>>> * PostCSS ![](./AboutMe-image/chevron-HIGH.png)
+>>> * Less
+>>> * Stylus	
 
 > ### JavaScript ![](./AboutMe-image/chevron-HIGH.png)
 
