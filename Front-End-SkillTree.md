@@ -15,7 +15,7 @@
 
 ## 原圖
 
-image
+![](./AboutMe-image/1_Scqsm4XG_UqXLdDmOWFCMQ.jpeg)
 
 ## 資源整理
 
