@@ -15,22 +15,23 @@
 
 ## 原圖
 
+image
 
 ## 資源整理
 
 **網頁三巨頭** ![](./AboutMe-image/chevron-HIGH.png)
 - HTML、JavaScript、CSS
-> CSS ![](./AboutMe-image/chevron-HIGH.png)
-```
-- CSS框架 ![](./AboutMe-image/chevron-HIGH.png)
+> **CSS** ![](./AboutMe-image/chevron-HIGH.png)
+
+- [ ]  CSS框架 ![](./AboutMe-image/chevron-HIGH.png)
 * Bootstrap ![](./AboutMe-image/chevron-MEDIUM.png) 
 * Sematic UI
 * Foundation
 * Pure CSS
 
--{響應式網頁RWD} ![](./AboutMe-image/chevron-HIGH.png)
+- [ ] {響應式網頁RWD} ![](./AboutMe-image/chevron-HIGH.png)
 		
--{設計} ![](./AboutMe-image/chevron-HIGH.png)
+- [ ] {設計} ![](./AboutMe-image/chevron-HIGH.png)
 * {繪圖軟體} ![](./AboutMe-image/chevron-HIGH.png)
 * Sketch ![](./AboutMe-image/chevron-HIGH.png)
 * Photoshop ![](./AboutMe-image/chevron-MEDIUM.png) 
@@ -46,10 +47,10 @@
 * PostCSS ![](./AboutMe-image/chevron-HIGH.png)
 * Less
 * Stylus	
-```
-> JavaScript ![](./AboutMe-image/chevron-HIGH.png)
 
-> 專精 ![](./AboutMe-image/chevron-HIGH.png)
+> **JavaScript** ![](./AboutMe-image/chevron-HIGH.png)
+
+> **專精** ![](./AboutMe-image/chevron-HIGH.png)
 
 			
 
