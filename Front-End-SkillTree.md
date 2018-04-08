@@ -2,9 +2,11 @@
 
 *出自： [六腳學院 - 2017 前端開發者技能樹！](http://www.hexschool.com/2017/06/12/2017-06-12-skill_tree/)*
 
-強烈推薦
-選修
-可了解
+## 說明
+
+[![](https://github.com/SparkAn/about-me/about-me Img/chevron -HIGH.png)]強烈推薦
+[![](https://github.com/SparkAn/about-me/about-me Img/chevron - MEDIUM.png)]選修
+[![](https://github.com/SparkAn/about-me/about-me Img/chevron - LOW.png)]可了解
 
 [網頁三巨頭]**
 HTML、JavaScript、CSS
