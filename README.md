@@ -2,7 +2,6 @@
 
 * English Name : SparkAn
 * Location : 高雄市鳳山區
-* E-mail : Obinisme03@gmail.com
 * Military Service Status: Performed(2016/10 - 2017/10)
 
 # Professional Experience
@@ -34,7 +33,7 @@
 
 ### Git/GitHub
 
-* 能使用 Git 進行版本控制 (在學中)
+* 能使用 Git 進行版本控制
 * GitHub Page
 
 ## Introduction
